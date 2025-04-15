@@ -1,13 +1,13 @@
-# Grafos1_GradeUnB
+# Grafos1_leetcodePM
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 22/2031045  |  Caio Magalhães Lamego |
-| 22/2037737  |  Matheus de Siqueira Brant |
+| 22/2026386  |  Pedro Gois Marques Monteiro |
+| 22/ |   |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
