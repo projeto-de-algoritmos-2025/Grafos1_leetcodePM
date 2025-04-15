@@ -10,10 +10,11 @@
 | 22/ |   |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará uma questão difícil e uma média.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Print 882
+![print](./Resposta_882/accept.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
