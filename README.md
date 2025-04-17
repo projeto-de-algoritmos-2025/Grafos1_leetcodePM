@@ -31,6 +31,12 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 ## Print 847
 
 ![print](./Resposta_847/accept847.png)
+
+## Print 773
+
+![print](./Resposta_773/accept773.png)
+
+
 ## Instalação 
 **Linguagem**: Python<br>
 
