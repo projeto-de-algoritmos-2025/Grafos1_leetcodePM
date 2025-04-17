@@ -12,7 +12,7 @@
 ## Sobre 
 Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará duas questões difíceis e uma média.
 
-# Screenshots
+# Screenshots Pedro
 
 ## Print 882
 
@@ -26,6 +26,11 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 
 ![print](./Resposta_547/accept547.png)
 
+# Screenshots Mateus
+
+## Print 847
+
+![print](./Resposta_847/accept847.png)
 ## Instalação 
 **Linguagem**: Python<br>
 
