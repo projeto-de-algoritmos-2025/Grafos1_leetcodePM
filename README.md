@@ -40,14 +40,14 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 
 ![print](./Resposta_815/accept815.png)
 
+## Print 994
+
+![print](./Resposta_994/accept.994.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
 
-## Uso 
-Teste
-
-## Outros 
+## Apresentação
 
 
 
