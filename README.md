@@ -35,7 +35,7 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 **Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
 
 ## Outros 
 
