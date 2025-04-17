@@ -38,7 +38,7 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
 
 
 
