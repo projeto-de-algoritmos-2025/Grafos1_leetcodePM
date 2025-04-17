@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 22/2026386  |  Pedro Gois Marques Monteiro |
-| 22/ |   |
+| 22/2025950  |  Mateus Henrique Queiroz Magalhães Sousa |
 
 ## Sobre 
 Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará duas questões difíceis e uma média.
